@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Ejercicio1_Pseudocodigo")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a02429ee30ac4e4114bab8bb095fe14e64a5abf8")]
 [assembly: System.Reflection.AssemblyProductAttribute("Ejercicio1_Pseudocodigo")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Ejercicio1_Pseudocodigo")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
